@@ -1,3 +1,5 @@
+Status now: [![Netlify Status](https://api.netlify.com/api/v1/badges/f93d0225-1ab6-4d94-a4b2-8b7b74d770c1/deploy-status)](https://app.netlify.com/sites/unrivaled-brigadeiros-fed7d3/deploys)
+
 # Astrofy | Personal Portfolio Website Template
 
 ![Astrofy | Personal Porfolio Website Template](public/social_img.webp)
